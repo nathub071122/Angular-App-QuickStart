@@ -23,7 +23,8 @@ import { WelcomeComponent } from './welcome/welcome.component';
     WelcomeComponent
   ],
   bootstrap: [
-    AppComponent
+    // AppComponent
+    WelcomeComponent
   ]
 })
 export class AppModule { }
